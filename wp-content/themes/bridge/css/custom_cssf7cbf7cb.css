@@ -1,0 +1,111 @@
+
+
+.touch .popup_menu_holder_outer{
+display: none;
+}
+
+.touch .popup_menu_opened .popup_menu_holder_outer{
+display: block;
+}
+
+footer .column1 {
+position: relative;
+top: -18px;
+}
+
+.cover_boxes ul li .box .box_content { top: 0; }
+.cover_boxes ul li .box .qbutton { margin-top: 18px; }
+
+.drop_down .second .inner .widget {
+padding-bottom: 13px;
+}
+
+.drop_down .second .inner .widget a{
+padding: 0px !important;
+}
+
+.contact_detail .contact_section > h4 {
+display: none;
+}
+
+.blog_large_image h2,
+.blog_large_image h2 a,
+.blog_holder.blog_single article h2,
+.blog_holder.blog_single article h2 a {
+font-size: 27px;
+}
+
+.blog_small_image h2,
+.blog_small_image h2 a { font-size: 22px; }
+
+nav.vertical_menu>ul>li>a {
+text-transform: lowercase;
+}
+
+.q_logo_vertical {
+margin-top: 120px;
+}
+
+.qbutton, .load_more a, .blog_load_more_button a, #submit_comment, .drop_down .wide .second ul li .qbutton, .drop_down .wide .second ul li ul li .qbutton {
+text-transform: lowercase;
+}
+
+.carousel-inner .slider_content .text .qbutton.white {
+margin-left: 0px;
+}
+
+.blog_holder .post_content_holder .post_more a {
+display: none;
+}
+
+.contact_section .separator, .contact_section .separator.small.right, .contact_section .separator.small.left {
+margin-top: 30px;
+margin-bottom: 10px;
+}
+
+aside .widget a, .side_menu a, .side_menu .widget li {
+font-weight: 300;
+}
+
+.contact_section {
+padding-top: 60px;
+}
+
+.contact_form {
+margin-bottom: 100px;
+}
+
+.title .separator.small, .title .separator.small.left, .title .separator.small.right {
+margin-top: 30px;
+margin-bottom: 0px;
+}
+
+.projects_masonry_holder .text_holder {
+background-color: rgba(25,29,32,0.8);
+}
+
+.blog_holder article.format-link .post_title p a, .blog_holder article.format-quote .post_title p a, .blog_holder article.format-link .post_text .post_title p, .blog_holder article.format-quote .post_text .post_title p {
+color: #ffffff;
+}
+
+.q_slider .qbutton.white:hover {
+background-color:  #191d20;
+border-color: #191d20;
+}
+
+nav.mobile_menu ul li a, nav.mobile_menu ul li h3 {
+text-transform: lowercase;
+}
+
+.comment_holder .comment {
+background-color: transparent;
+}
+
+.comment_holder .comment .text .name {
+color: #bebebe;
+}
+
+.blog_holder article.format-link .post_text:hover .post_text_inner, .blog_holder article.format-quote .post_text:hover .post_text_inner {
+background-color: #30373d !important;
+border-color: #30373d !important;
+}
